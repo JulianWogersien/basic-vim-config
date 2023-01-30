@@ -6,5 +6,3 @@ control and hjkl move between buffers
 the :term command splits the terminal below instead of at the top
 the colorscheme used is molokai
 feel free to add things via PR but unless you make a good reason i wont accept plugins or very complex things
-
-also sorry i missed a 'c' in the repo name
